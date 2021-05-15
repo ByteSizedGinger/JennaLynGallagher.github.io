@@ -4,11 +4,15 @@ I'm Jenna Lyn Gallagher a third Year computer science student at the University 
 
 
 ```markdown
-Programming Languages
+Languages
 1. Java
 2. C++
 3. PHP
 4. Python
+5. Javascript
+6. Typescript
+7. CSS
+8. HTML
 ```
 
 
